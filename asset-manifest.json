@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.f855e6bc.css",
-    "main.js": "/static/js/main.39e9c0c6.js",
-    "static/js/787.2c6b2397.chunk.js": "/static/js/787.2c6b2397.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/static/css/main.dce478eb.css",
+    "main.js": "/static/js/main.9eac528e.js",
+    "static/media/denim-pioneer.jpg": "/static/media/denim-pioneer.6b726ec4efda6c8f7752.jpg",
+    "static/media/rain-jacket.jpg": "/static/media/rain-jacket.b856f7a5efa6e87f2da0.jpg",
+    "static/media/dream-gown.jpg": "/static/media/dream-gown.3b7de5866ea9f4f81bf6.jpg",
+    "static/media/mocha-overcoat.jpg": "/static/media/mocha-overcoat.037b486a844d5afc0022.jpg",
+    "static/media/merlot-suit.jpg": "/static/media/merlot-suit.0140cac0a814bc9640b7.jpg",
+    "static/media/moonlight-dress.jpg": "/static/media/moonlight-dress.dabc8ca96931f295d884.jpg",
     "index.html": "/index.html",
-    "main.f855e6bc.css.map": "/static/css/main.f855e6bc.css.map",
-    "main.39e9c0c6.js.map": "/static/js/main.39e9c0c6.js.map",
-    "787.2c6b2397.chunk.js.map": "/static/js/787.2c6b2397.chunk.js.map"
+    "main.dce478eb.css.map": "/static/css/main.dce478eb.css.map",
+    "main.9eac528e.js.map": "/static/js/main.9eac528e.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.39e9c0c6.js"
+    "static/css/main.dce478eb.css",
+    "static/js/main.9eac528e.js"
   ]
 }
