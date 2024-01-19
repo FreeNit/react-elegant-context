@@ -14,6 +14,7 @@ export default function Cart() {
       {items.length > 0 && (
         <ul id='cart-items'>
           {items.map((item) => {
+            console.log(item);
             const formattedPrice = `$${item.price.toFixed(2)}`;
 
             return (
